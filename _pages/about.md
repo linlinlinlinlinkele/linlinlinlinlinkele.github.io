@@ -28,46 +28,38 @@ I am particularly interested in designing intelligent interaction frameworks and
 
 # Research Experiences {#researchxperiences}
 
-### 🧠 1. Smartphone Users' Attention State Awareness  
-**University of Science and Technology of China (USTC)**  
-📅 *Dec 2023 – Feb 2025*  
+## 🧠 1. Smartphone Users' Attention State Awareness  
+**USTC**  📅 *Dec 2023 – Feb 2025*
 **Project Lead** | Supervised by [Prof. Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/)  
+- **Research Goal:** Investigated smartphone users’ momentary attention states through multimodal sensing and behavioral modeling.  
+- **Framework & Data Collection:** Designed an end-to-end attention prediction framework and developed an Android app to log device interactions, sensor data, and ESM self-reports. Conducted field studies with 43 participants, collecting 9K+ real-world samples ([Dataset Released](https://github.com/linlinlinlinlinkele/AttenTrack)).  
+- **Analysis & Modeling:** Applied mixed-methods analysis combining LLM-assisted thematic coding and statistical modeling; achieved 80%+ F1 in cold-start attention state prediction.
+*As the first author, submitted a paper to the* *International Journal of Human–Computer Interaction (IJHCI).*
 
-**🎯 Research Goal:** Investigated smartphone users’ momentary attention states through multimodal sensing and behavioral modeling.  
-**⚙️ Framework & Data Collection:** Designed an end-to-end attention prediction framework and developed an Android app to log device interactions, sensor data, and ESM self-reports. Conducted field studies with 43 participants, collecting 9K+ real-world samples ([Dataset Released](https://github.com/linlinlinlinlinkele/AttenTrack)).  
-**📊 Analysis & Modeling:** Applied mixed-methods analysis combining LLM-assisted thematic coding and statistical modeling; achieved 80%+ F1 in cold-start attention state prediction.  
-✍️ *As the first author, submitted a paper to the* *International Journal of Human–Computer Interaction (IJHCI).*
 
-
-### 🤖 2. Graph-of-Convex-Sets Motion Planning for Robotic Arms  
-**University of Science and Technology of China (USTC)**  
-📅 *Mar 2025 – Dec 2025 (Expected)*  
+## 🤖 2. Graph-of-Convex-Sets Motion Planning for Robotic Arms  
+**USTC**  📅 *Mar 2025 – Dec 2025 (Expected)*  
 **Project Lead** | Supervised by [Prof. Da Sun](https://scholar.google.com/citations?user=mveLF-4AAAAJ&hl=zh-CN) & [Prof. Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/)  
+- **Research Goal:** Designed a trajectory planning framework based on convex sets.  
+- **Methodology:** Partitioned the robot arm’s free space into multiple convex regions and constructed a weighted graph based on the reachability between regions. Performed graph search to generate a sequence of convex regions and optimized trajectories within each region.  
+- **Key Design:** (1) Efficiently generated convex regions using goal-directed sampling. (2) Reduced graph complexity through heuristic pruning, accelerating path computation.  
+- **Applicability:** Demonstrated applicability in high-performance 2D planar path planning, 3D aerial vehicle trajectory planning, and high-degree-of-freedom robotic arm trajectory planning.  
+*First-author paper scheduled for submission in Dec 2025.*
 
-**🎯 Research Goal:** Designed a trajectory planning framework based on convex sets.  
-**⚙️ Methodology:** Partitioned the robot arm’s free space into multiple convex regions and constructed a weighted graph based on the reachability between regions. Performed graph search to generate a sequence of convex regions and optimized trajectories within each region.  
-**💡 Key Design:** (1) Efficiently generated convex regions using goal-directed sampling. (2) Reduced graph complexity through heuristic pruning, accelerating path computation.  
-**🚀 Applicability:** Demonstrated applicability in high-performance 2D planar path planning, 3D aerial vehicle trajectory planning, and high-degree-of-freedom robotic arm trajectory planning.  
-✍️ *First-author paper scheduled for submission in Dec 2025.*
 
-
-### 📱 3. Linking Motion Design to Brand Perception in Mobile Interfaces  
-**Online Summer Research | Tsinghua University (THU)**  
-📅 *May 2025 – Sep 2025*  
+## 📱 3. Linking Motion Design to Brand Perception in Mobile Interfaces  
+**Online Summer Research | Tsinghua University (THU)**  📅 *May 2025 – Sep 2025*  
 **Core Member** | Supervised by [Prof. Yang JIAO](https://scholar.google.com/citations?hl=zh-CN&user=nifMhLoAAAAJ)  
+- **Research Goal:** Analyzed smartphone motion effects across multiple brands by extracting and quantifying objective motion parameters, and linked these parameters to user perception and brand style. Developed a perceptual-style map to visualize the relationship between motion parameters, user experience, and brand identity.  
+- **My Contribution:** Implemented code-based methods to extract and quantify objective motion parameters of smartphone interface animations. Conducted user experiments and quantitative data analysis.  
+*Co-authored and submitted a paper to* *CHI 2026.*
 
-**🎯 Research Goal:** Analyzed smartphone motion effects across multiple brands by extracting and quantifying objective motion parameters, and linked these parameters to user perception and brand style. Developed a perceptual-style map to visualize the relationship between motion parameters, user experience, and brand identity.  
-**💻 My Contribution:** Implemented code-based methods to extract and quantify objective motion parameters of smartphone interface animations. Conducted user experiments and quantitative data analysis.  
-✍️ *Co-authored and submitted a paper to* *CHI 2026.*
 
-
-### 🎧 4. Bandwidth-Efficient Audio Compression for Accurate MLLM ASR  
-**Remote Research Intern | University of Texas at Dallas (UTD)**  
-📅 *Jul 2025 – Ongoing*  
+## 🎧 4. Bandwidth-Efficient Audio Compression for Accurate MLLM ASR  
+**Remote Research Intern | University of Texas at Dallas (UTD)**  📅 *Jul 2025 – Ongoing*  
 **Project Lead** | Supervised by [Prof. Yi Ding](https://yi-ding.me/)  
-
-**🎯 Research Goal I:** Evaluated and quantified the robustness of multimodal large language models (MLLMs) in automatic speech recognition (ASR) tasks.  
-**🎯 Research Goal II:** Designed a bandwidth-efficient compression and decompression method for multi-channel audio transmission, which compresses multiple audio streams into a single stream and restores them with sufficient fidelity for accurate MLLM-based recognition, achieving a balance between transmission efficiency and ASR accuracy.
+- **Research Goal I:** Evaluated and quantified the robustness of multimodal large language models (MLLMs) in automatic speech recognition (ASR) tasks.  
+- **Research Goal II:** Designed a bandwidth-efficient compression and decompression method for multi-channel audio transmission, which compresses multiple audio streams into a single stream and restores them with sufficient fidelity for accurate MLLM-based recognition, achieving a balance between transmission efficiency and ASR accuracy.
 
 ---
 
@@ -93,7 +85,22 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 ---
 
 # Work Experiences {#workexperiences}
+### Algorithm Engineering Intern — [JD.com, Inc.](https://corporate.jd.com/) *(Beijing, China)*  
+*June 2023 – August 2023*  *Supervised by [Prof. Desheng Zhang](https://people.cs.rutgers.edu/~dz220/), Rutgers University*
+**Courier Calorie Consumption Prediction and Delivery Difficulty Assessment**  
+- Developed a calorie consumption prediction system for delivery couriers by leveraging order data, device logs, and wearable fitness tracker information.  
+- Quantified delivery area difficulty and optimized fairness in order allocation.
+**Courier Delivery Route Sequence Reconstruction**  
+- Fused order data with courier trajectory stay points to reconstruct the true delivery route.  
+- Addressed the issue of order sequence disruption caused by batch “delivered” clicks.
 
+
+### Smart Manufacturing Intern — [NIO Inc.](https://www.nio.com/) *(Shanghai, China)*  
+*July 2024 – January 2025*
+**Automotive Plant Data Governance and Standardization Project**  
+- Designed a unified industrial data representation framework spanning physical–virtual spaces.  
+- Participated as a core member in drafting the corporate standard *Industrial Metaverse Data Interoperability Specification*.  
+- Established standardized data representation formats for industrial metaverse data governance.
 
 ---
 
@@ -104,6 +111,14 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 
 # Honors {#honors}
 
+### Academic Excellence Scholarship — *Hohai University*  
+*2020, 2021, 2022, 2023*  
+
+### Outstanding Student Award — *Hohai University*  
+*2020, 2021, 2022, 2023*  
+
+### First-Class Graduate Scholarship — *University of Science and Technology of China (USTC)*  
+*2024 & 2025*
 
 ---
 
