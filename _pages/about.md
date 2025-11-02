@@ -11,15 +11,19 @@ I am a Master's student in Computer Science at the [University of Science and Te
 # Research interests {#interests}
 - **Human-computer Interaction**: Human-Centered AI, Accessible & Well-being Systems
 - **Mobile & Ubiquitous Computing**: Edge & On-device Intelligence, Mobile Sensing, Ubiquitous Interaction <br>
+
 My research interests focus on integrating artificial intelligence into human-centered systems to enhance user experience, productivity, and well-being.  
 I am particularly interested in designing intelligent interaction frameworks and adaptive algorithms for mobile and edge environments.
+
 ---
 
 
 # Education {#education}
 - M.E. in Computer Science and Technology, University of Science and Technology of China, 2023 - 2026 (Expected)
 - B.E. in Internet of Things (IoT) Engineering, Hohai University, 2019 - 2023
+
 🎉 祝我的母校河海大学110周年生日快乐！ Happy 110th Anniversary, Hohai University! 💙🌊
+
 ---
 
 # Research Experiences {#researchxperiences}
