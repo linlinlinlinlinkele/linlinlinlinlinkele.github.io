@@ -5,8 +5,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Master's student in Computer Science at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). My research interests lie in . I am actively seeking <span style='color: red;'>Ph.D. opportunities for Fall 2026 worldwide</span>. I welcome inquiries regarding relevant positions or collaborations. Please feel free to contact me via <a href="mailto:linyutong@mail.ustc.edu.cn">email</a>. You can find my CV 
+I am a Master's student in Computer Science at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). My research interests lie in . I am actively seeking <span style='color: red;'>Ph.D. opportunities for Fall 2026 worldwide</span>. I welcome inquiries regarding relevant positions or collaborations. Please feel free to contact me via <a href="mailto:yutonglin416@gmail.com">email</a>. You can find my CV 
 <!-- <a href="https://Glycineeeee.github.io/files/CV_Jingmiao_Zhang.pdf" target="_blank">here</a>. -->
+
+# Research interests {#interests}
+- **Human-computer Interaction**: Human-Centered AI, Accessible \& Well-being Systems
+- **Mobile \& Ubiquitous Computing**: Edge \& On-device Intelligence, Mobile Sensing, Ubiquitous Interaction
+
+---
 
 
 # Education {#education}
