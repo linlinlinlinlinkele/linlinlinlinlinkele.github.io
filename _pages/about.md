@@ -28,6 +28,46 @@ I am particularly interested in designing intelligent interaction frameworks and
 
 # Research Experiences {#researchxperiences}
 
+### 🧠 1. Smartphone Users' Attention State Awareness  
+**University of Science and Technology of China (USTC)**  
+📅 *Dec 2023 – Feb 2025*  
+**Project Lead** | Supervised by [Prof. Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/)  
+
+**🎯 Research Goal:** Investigated smartphone users’ momentary attention states through multimodal sensing and behavioral modeling.  
+**⚙️ Framework & Data Collection:** Designed an end-to-end attention prediction framework and developed an Android app to log device interactions, sensor data, and ESM self-reports. Conducted field studies with 43 participants, collecting 9K+ real-world samples ([Dataset Released](https://github.com/linlinlinlinlinkele/AttenTrack)).  
+**📊 Analysis & Modeling:** Applied mixed-methods analysis combining LLM-assisted thematic coding and statistical modeling; achieved 80%+ F1 in cold-start attention state prediction.  
+✍️ *As the first author, submitted a paper to the* *International Journal of Human–Computer Interaction (IJHCI).*
+
+
+### 🤖 2. Graph-of-Convex-Sets Motion Planning for Robotic Arms  
+**University of Science and Technology of China (USTC)**  
+📅 *Mar 2025 – Dec 2025 (Expected)*  
+**Project Lead** | Supervised by [Prof. Da Sun](https://scholar.google.com/citations?user=mveLF-4AAAAJ&hl=zh-CN) & [Prof. Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/)  
+
+**🎯 Research Goal:** Designed a trajectory planning framework based on convex sets.  
+**⚙️ Methodology:** Partitioned the robot arm’s free space into multiple convex regions and constructed a weighted graph based on the reachability between regions. Performed graph search to generate a sequence of convex regions and optimized trajectories within each region.  
+**💡 Key Design:** (1) Efficiently generated convex regions using goal-directed sampling. (2) Reduced graph complexity through heuristic pruning, accelerating path computation.  
+**🚀 Applicability:** Demonstrated applicability in high-performance 2D planar path planning, 3D aerial vehicle trajectory planning, and high-degree-of-freedom robotic arm trajectory planning.  
+✍️ *First-author paper scheduled for submission in Dec 2025.*
+
+
+### 📱 3. Linking Motion Design to Brand Perception in Mobile Interfaces  
+**Online Summer Research | Tsinghua University (THU)**  
+📅 *May 2025 – Sep 2025*  
+**Core Member** | Supervised by [Prof. Yang JIAO](https://scholar.google.com/citations?hl=zh-CN&user=nifMhLoAAAAJ)  
+
+**🎯 Research Goal:** Analyzed smartphone motion effects across multiple brands by extracting and quantifying objective motion parameters, and linked these parameters to user perception and brand style. Developed a perceptual-style map to visualize the relationship between motion parameters, user experience, and brand identity.  
+**💻 My Contribution:** Implemented code-based methods to extract and quantify objective motion parameters of smartphone interface animations. Conducted user experiments and quantitative data analysis.  
+✍️ *Co-authored and submitted a paper to* *CHI 2026.*
+
+
+### 🎧 4. Bandwidth-Efficient Audio Compression for Accurate MLLM ASR  
+**Remote Research Intern | University of Texas at Dallas (UTD)**  
+📅 *Jul 2025 – Ongoing*  
+**Project Lead** | Supervised by [Prof. Yi Ding](https://yi-ding.me/)  
+
+**🎯 Research Goal I:** Evaluated and quantified the robustness of multimodal large language models (MLLMs) in automatic speech recognition (ASR) tasks.  
+**🎯 Research Goal II:** Designed a bandwidth-efficient compression and decompression method for multi-channel audio transmission, which compresses multiple audio streams into a single stream and restores them with sufficient fidelity for accurate MLLM-based recognition, achieving a balance between transmission efficiency and ASR accuracy.
 
 ---
 
