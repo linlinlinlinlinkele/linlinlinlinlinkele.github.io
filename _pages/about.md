@@ -10,7 +10,7 @@ I am a Master's student in Computer Science at the [University of Science and Te
 
 # Research interests {#interests}
 - **Human-computer Interaction**: Human-Centered AI, Accessible & Well-being Systems
-- **Mobile & Ubiquitous Computing**: Edge & On-device Intelligence, Mobile Sensing, Ubiquitous Interaction
+- **Mobile & Ubiquitous Computing**: Edge & On-device Intelligence, Mobile Sensing, Ubiquitous Interaction <br>
 My research interests focus on integrating artificial intelligence into human-centered systems to enhance user experience, productivity, and well-being.  
 I am particularly interested in designing intelligent interaction frameworks and adaptive algorithms for mobile and edge environments.
 ---
@@ -29,6 +29,22 @@ I am particularly interested in designing intelligent interaction frameworks and
 
 # Publications & Manuscripts {#publications}
 
+
+### 📄 **AttenTrack: Mobile User Attention Awareness Based on Context and External Distractions**  
+**[Paper](https://arxiv.org/abs/2509.01414)**  
+**Yutong Lin**, Suyuan Liu, Kaiwen Guo, Haohua Du, Chao Liu, Xiang-Yang Li  
+*Under review at the International Journal of Human–Computer Interaction (IJHCI).*  
+
+
+### 🤖 **A Two-Stage LLM System for Enhanced Regulatory Information Retrieval and Answer Generation**  
+**[Paper](https://aclanthology.org/2025.regnlp-1.10.pdf)**  
+Fengzhao Sun, Jun Yu, Jiaming Hou, **Yutong Lin**, Tianyu Liu  
+*In Proceedings of the 31st International Conference on Computational Linguistics (COLING) Workshops, 2025.*  
+
+
+### 📱 **From Parameters to Style: A Dual-Dimensional User Perceptual Structure of Smartphone Motion Effects Design**  
+Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu Dai, Stephen Jia Wang, Yang Jiao  
+*Under review at the ACM CHI Conference on Human Factors in Computing Systems (CHI 2026).*  
 
 ---
 
