@@ -7,7 +7,7 @@ redirect_from:
 ---
 I am a Master's student in Computer Science at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), advised by [Prof. Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/) (ACM Fellow, IEEE Fellow). 
 
-I am actively seeking <span style='color: red;'>Ph.D. opportunities for Fall 2026 worldwide!</span> Please feel free to contact me via <a href="mailto:yutonglin416@gmail.com">email</a>. You can find my CV <a href="https://Glycineeeee.github.io/files/YutongCV_new.pdf" target="_blank">here</a>. 😆
+I am actively seeking <span style='color: red;'>Ph.D. opportunities for Fall 2026 worldwide!</span> Please feel free to contact me via <a href="mailto:yutonglin416@gmail.com">email</a>. You can find my CV <a href="https://linlinlinlinlinkele.github.io/files/YutongCV_new.pdf" target="_blank">here</a>. 😆
 <!-- <a href="https://Glycineeeee.github.io/files/" target="_blank">here</a>. -->
 
 # Research interests {#interests}
