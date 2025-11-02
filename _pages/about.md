@@ -5,7 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Master's student in Computer Science at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). My research interests lie in . I am actively seeking <span style='color: red;'>Ph.D. opportunities for Fall 2026 worldwide</span>. I welcome inquiries regarding relevant positions or collaborations. Please feel free to contact me via <a href="mailto:yutonglin416@gmail.com">email</a>. You can find my CV 
+I am a Master's student in Computer Science at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), advised by [Prof. Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/) (ACM Fellow, IEEE Fellow). I am actively seeking <span style='color: red;'>Ph.D. opportunities for Fall 2026 worldwide!</span> I welcome inquiries regarding relevant positions or collaborations. Please feel free to contact me via <a href="mailto:yutonglin416@gmail.com">email</a>. You can find my CV here 😆
 <!-- <a href="https://Glycineeeee.github.io/files/CV_Jingmiao_Zhang.pdf" target="_blank">here</a>. -->
 
 # Research interests {#interests}
@@ -19,7 +19,7 @@ I am particularly interested in designing intelligent interaction frameworks and
 # Education {#education}
 - M.E. in Computer Science and Technology, University of Science and Technology of China, 2023 - 2026 (Expected)
 - B.E. in Internet of Things (IoT) Engineering, Hohai University, 2019 - 2023
-
+🎉 祝我的母校河海大学110周年生日快乐！ Happy 110th Anniversary, Hohai University! 💙🌊
 ---
 
 # Research Experiences {#researchxperiences}
