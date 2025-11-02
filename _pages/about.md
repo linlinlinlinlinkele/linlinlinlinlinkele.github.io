@@ -1,40 +1,38 @@
 ---
-layout: single
-title: "Yutong Lin / 林妤彤"
+permalink: /
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
+I am a Master's student in Computer Science at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). My research interests lie in . I am actively seeking <span style='color: red;'>Ph.D. opportunities for Fall 2026 worldwide</span>. I welcome inquiries regarding relevant positions or collaborations. Please feel free to contact me via <a href="mailto:linyutong@mail.ustc.edu.cn">email</a>. You can find my CV 
+<!-- <a href="https://Glycineeeee.github.io/files/CV_Jingmiao_Zhang.pdf" target="_blank">here</a>. -->
 
-# About Me {#about}
-Hi! I am Yutong Lin, a PhD student in Computer Science at USTC. My research focuses on Human-Computer Interaction, Mobile & Ubiquitous Computing, and AI-driven human-centered systems.
+
+# Education {#education}
+- M.E. in Computer Science and Technology, University of Science and Technology of China, 2023 - 2026 (Expected)
+- B.E. in Internet of Things (IoT) Engineering, Hohai University, 2019 - 2023
 
 ---
 
 # Publications {#publications}
-{% for pub in site.data.publications %}
-- [{{ pub.title }}]({{ pub.url }}) — {{ pub.venue }}, {{ pub.year }}
-{% endfor %}
+
 
 ---
 
-# Education {#education}
-- **PhD**, Computer Science, USTC, 2023–present  
-- **BSc**, Computer Science, USTC, 2019–2023  
+# Honors {#honors}
+
 
 ---
 
-# Projects {#projects}
-- **Graph-of-Convex-Sets Motion Planning for Robotic Arms**  
-  Partitioned robotic arm free space into convex regions, constructed weighted graph, optimized trajectories; paper submitted Dec 2025.  
+# Experiences {#experiences}
 
-- **Smartphone Users' Attention State Awareness**  
-  Designed attention prediction framework and collected 9K+ real-world samples; co-authored paper submitted to IJHCI.  
-
-- **Linking Motion Design to Brand Perception in Mobile Interfaces**  
-  Extracted smartphone motion parameters, conducted user studies, developed perceptual-style map; co-authored paper submitted to CHI 2026.  
 
 ---
 
-# Contact {#contact}
-- Email: [yutonglin416@gmail.com](mailto:yutonglin416@gmail.com)  
-- GitHub: [linlinlinlinlinkele](https://github.com/linlinlinlinlinkele)  
-- ORCID: [https://orcid.org/yourorcidurl](https://orcid.org/yourorcidurl)
+
+
+
+<div style="text-align: center; transform: scale(0.25); transform-origin: top center;">
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QE-4g5YC0OPMwEWJqigZA1hwMzkDrtZOXrNmQ0npvEY"></script>
+</div>
