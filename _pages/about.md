@@ -9,9 +9,10 @@ I am a Master's student in Computer Science at the [University of Science and Te
 <!-- <a href="https://Glycineeeee.github.io/files/CV_Jingmiao_Zhang.pdf" target="_blank">here</a>. -->
 
 # Research interests {#interests}
-- **Human-computer Interaction**: Human-Centered AI, Accessible \& Well-being Systems
-- **Mobile \& Ubiquitous Computing**: Edge \& On-device Intelligence, Mobile Sensing, Ubiquitous Interaction
-
+- **Human-computer Interaction**: Human-Centered AI, Accessible & Well-being Systems
+- **Mobile & Ubiquitous Computing**: Edge & On-device Intelligence, Mobile Sensing, Ubiquitous Interaction
+My research interests focus on integrating artificial intelligence into human-centered systems to enhance user experience, productivity, and well-being.  
+I am particularly interested in designing intelligent interaction frameworks and adaptive algorithms for mobile and edge environments.
 ---
 
 
