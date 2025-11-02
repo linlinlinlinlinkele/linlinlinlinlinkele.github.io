@@ -29,18 +29,21 @@
 main:
 - title: "Education"
   url: "/#education"
+  
+- title: "Research Experiences"
+  url: "/#researchexperiences"
+  
+# - title: "Publications & Manuscripts"
+#   url: "/#publications"
 
-- title: "Publications"
-  url: "/#publications"
+# - title: "Honors"
+#   url: "/#honors"
 
-- title: "Honors"
-  url: "/#honors"
+- title: "Work Experiences"
+  url: "/#workexperiences"
 
-- title: "Experiences"
-  url: "/#experiences"
-
-- title: "Services"
-  url: "/#services"
+- title: "Beyond Work"
+  url: "/#beyond"
   # - title: "CV"
   #   url: /cv-json/
     
