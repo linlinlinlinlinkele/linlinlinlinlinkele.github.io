@@ -24,14 +24,14 @@ I am particularly interested in designing intelligent interaction frameworks and
 - M.E. in Computer Science and Technology, University of Science and Technology of China, 2023 - 2026 (Expected)
 - B.E. in Internet of Things (IoT) Engineering, Hohai University, 2019 - 2023
 
-🎉 祝我的母校河海大学110周年生日快乐！ Happy 110th Anniversary, Hohai University! 💙🌊
+🎉 祝我的母校河海大学110周年生日快乐！ Happy 110th Anniversary, Hohai! 💙🌊
 
 ---
 
 # Research Experiences {#researchxperiences}
 
 ## 🧠 1. Smartphone Users' Attention State Awareness  
-**USTC**  📅 *Dec 2023 – Feb 2025*
+**USTC**  📅 *Dec 2023 – Feb 2025* <br>
 **Project Lead** | Supervised by [Prof. Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/)  
 - **Research Goal:** Investigated smartphone users’ momentary attention states through multimodal sensing and behavioral modeling.  
 - **Framework & Data Collection:** Designed an end-to-end attention prediction framework and developed an Android app to log device interactions, sensor data, and ESM self-reports. Conducted field studies with 43 participants, collecting 9K+ real-world samples ([Dataset Released](https://github.com/linlinlinlinlinkele/AttenTrack)).  
@@ -41,7 +41,7 @@ I am particularly interested in designing intelligent interaction frameworks and
 
 
 ## 🤖 2. Graph-of-Convex-Sets Motion Planning for Robotic Arms  
-**USTC**  📅 *Mar 2025 – Dec 2025 (Expected)*  
+**USTC**  📅 *Mar 2025 – Dec 2025 (Expected)*  <br> 
 **Project Lead** | Supervised by [Prof. Da Sun](https://scholar.google.com/citations?user=mveLF-4AAAAJ&hl=zh-CN) & [Prof. Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/)  
 - **Research Goal:** Designed a trajectory planning framework based on convex sets.  
 - **Methodology:** Partitioned the robot arm’s free space into multiple convex regions and constructed a weighted graph based on the reachability between regions. Performed graph search to generate a sequence of convex regions and optimized trajectories within each region.  
@@ -52,7 +52,7 @@ I am particularly interested in designing intelligent interaction frameworks and
 
 
 ## 📱 3. Linking Motion Design to Brand Perception in Mobile Interfaces  
-**Online Summer Research | Tsinghua University (THU)**  📅 *May 2025 – Sep 2025*  
+**Online Summer Research |** Tsinghua University (THU)  📅 *May 2025 – Sep 2025*    <br> 
 **Core Member** | Supervised by [Prof. Yang JIAO](https://scholar.google.com/citations?hl=zh-CN&user=nifMhLoAAAAJ)  
 - **Research Goal:** Analyzed smartphone motion effects across multiple brands by extracting and quantifying objective motion parameters, and linked these parameters to user perception and brand style. Developed a perceptual-style map to visualize the relationship between motion parameters, user experience, and brand identity.  
 - **My Contribution:** Implemented code-based methods to extract and quantify objective motion parameters of smartphone interface animations. Conducted user experiments and quantitative data analysis.
@@ -61,7 +61,7 @@ I am particularly interested in designing intelligent interaction frameworks and
 
 
 ## 🎧 4. Bandwidth-Efficient Audio Compression for Accurate MLLM ASR  
-**Remote Research Intern | University of Texas at Dallas (UTD)**  📅 *Jul 2025 – Ongoing*  
+**Remote Research Intern |** University of Texas at Dallas (UTD)  📅 *Jul 2025 – Ongoing*    <br> 
 **Project Lead** | Supervised by [Prof. Yi Ding](https://yi-ding.me/)  
 - **Research Goal I:** Evaluated and quantified the robustness of multimodal large language models (MLLMs) in automatic speech recognition (ASR) tasks.  
 - **Research Goal II:** Designed a bandwidth-efficient compression and decompression method for multi-channel audio transmission, which compresses multiple audio streams into a single stream and restores them with sufficient fidelity for accurate MLLM-based recognition, achieving a balance between transmission efficiency and ASR accuracy.
@@ -109,21 +109,33 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 
 ---
 
-# Beyond Work {#beyond}
-
-
----
-
 # Honors {#honors}
 
 - **Academic Excellence Scholarship** — *Hohai University*  *2020, 2021, 2022, 2023*  
 
 - **Outstanding Student Award** — *Hohai University*  *2020, 2021, 2022, 2023*  
 
-### First-Class Graduate Scholarship — *University of Science and Technology of China (USTC)*  
-*2024 & 2025*
+- **First-Class Graduate Scholarship** — *University of Science and Technology of China (USTC)*  *2024 & 2025*
 
 ---
+
+# Beyond Work {#beyond}
+In my spare time, I find peace playing the piano in the music room of the university library — always grateful to my younger self for never giving up on it. <br> 
+I love watching shows of all kinds, from suspense and sci-fi dramas to sitcoms (my top picks in recent years are *Magpie Murders* and *Modern Family*). <br>
+And btw, I’m also a big fan of horror movies! <br>
+
+### I often tell myself, "We don't make right choices. We make choices and prove them right." I hope to carry a nomadic spirit within me, building my own tent wherever the life leads.
+
+<figure style="max-width:720px; margin: 24px auto; text-align:center;">
+  <img src="/path/to/your-image.jpg" alt="A line from Modern Family" style="width:100%; height:auto; border-radius:8px;">
+  <figcaption style="font-style:italic; color:#666; margin-top:8px;">
+    “Take a lesson from nature: nothing is perfect, everything is beautiful.” — <em>Modern Family</em>
+  </figcaption>
+</figure>
+
+---
+
+
 
 <div style="text-align: center; transform: scale(0.25); transform-origin: top center;">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QE-4g5YC0OPMwEWJqigZA1hwMzkDrtZOXrNmQ0npvEY"></script>
