@@ -54,7 +54,7 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 **USTC**  📅 *Dec 2023 – Feb 2025* <br>
 **Project Lead** | Supervised by [Prof. Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/)  
 <figure style="display:block; margin: 24px auto; text-align:center;">
-  <img src="/images/attention.jpg" alt="attention" style="width:90%; max-width:360px; height:auto; border-radius:8px;">
+  <img src="/images/attention.png" alt="attention" style="width:90%; max-width:360px; height:auto; border-radius:8px;">
   <!-- <figcaption style="font-style:italic; color:#666; margin-top:8px;">
     <em>Modern Family</em>
   </figcaption> -->
@@ -70,7 +70,7 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 **USTC**  📅 *Mar 2025 – Dec 2025 (Expected)*  <br> 
 **Project Lead** | Supervised by [Prof. Da Sun](https://scholar.google.com/citations?user=mveLF-4AAAAJ&hl=zh-CN) & [Prof. Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/)  
 <figure style="display:block; margin: 24px auto; text-align:center;">
-  <img src="/images/robotics.jpg" alt="robotics" style="width:90%; max-width:360px; height:auto; border-radius:8px;">
+  <img src="/images/robotics.png" alt="robotics" style="width:90%; max-width:360px; height:auto; border-radius:8px;">
   <!-- <figcaption style="font-style:italic; color:#666; margin-top:8px;">
     <em>Modern Family</em>
   </figcaption> -->
@@ -87,7 +87,7 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 **Online Summer Research |** Tsinghua University (THU)  📅 *May 2025 – Sep 2025*    <br> 
 **Core Member** | Supervised by [Prof. Yang JIAO](https://scholar.google.com/citations?hl=zh-CN&user=nifMhLoAAAAJ)  
 <figure style="display:block; margin: 24px auto; text-align:center;">
-  <img src="/images/motion.jpg" alt="motion" style="width:90%; max-width:360px; height:auto; border-radius:8px;">
+  <img src="/images/motion.png" alt="motion" style="width:90%; max-width:360px; height:auto; border-radius:8px;">
   <!-- <figcaption style="font-style:italic; color:#666; margin-top:8px;">
     <em>Modern Family</em>
   </figcaption> -->
@@ -102,7 +102,7 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 **Remote Research Intern |** University of Texas at Dallas (UTD)  📅 *Jul 2025 – Ongoing*    <br> 
 **Project Lead** | Supervised by [Prof. Yi Ding](https://yi-ding.me/)  
 <figure style="display:block; margin: 24px auto; text-align:center;">
-  <img src="/images/audio.jpg" alt="audio" style="width:90%; max-width:360px; height:auto; border-radius:8px;">
+  <img src="/images/audio.png" alt="audio" style="width:90%; max-width:360px; height:auto; border-radius:8px;">
   <!-- <figcaption style="font-style:italic; color:#666; margin-top:8px;">
     <em>Modern Family</em>
   </figcaption> -->
