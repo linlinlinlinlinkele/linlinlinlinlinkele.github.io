@@ -53,6 +53,12 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 ## 🧠 1. Smartphone Users' Attention State Awareness  
 **USTC**  📅 *Dec 2023 – Feb 2025* <br>
 **Project Lead** | Supervised by [Prof. Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/)  
+<figure style="display:block; margin: 24px auto; text-align:center;">
+  <img src="/images/attention.jpg" alt="attention" style="width:90%; max-width:360px; height:auto; border-radius:8px;">
+  <!-- <figcaption style="font-style:italic; color:#666; margin-top:8px;">
+    <em>Modern Family</em>
+  </figcaption> -->
+</figure>
 - **Research Goal:** Investigated smartphone users’ momentary attention states through multimodal sensing and behavioral modeling.  
 - **Framework & Data Collection:** Designed an end-to-end attention prediction framework and developed an Android app to log device interactions, sensor data, and ESM self-reports. Conducted field studies with 43 participants, collecting 9K+ real-world samples ([Dataset Released](https://github.com/linlinlinlinlinkele/AttenTrack)).  
 - **Analysis & Modeling:** Applied mixed-methods analysis combining LLM-assisted thematic coding and statistical modeling; achieved 80%+ F1 in cold-start attention state prediction.
@@ -63,6 +69,12 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 ## 🤖 2. Graph-of-Convex-Sets Motion Planning for Robotic Arms  
 **USTC**  📅 *Mar 2025 – Dec 2025 (Expected)*  <br> 
 **Project Lead** | Supervised by [Prof. Da Sun](https://scholar.google.com/citations?user=mveLF-4AAAAJ&hl=zh-CN) & [Prof. Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/)  
+<figure style="display:block; margin: 24px auto; text-align:center;">
+  <img src="/images/robotics.jpg" alt="robotics" style="width:90%; max-width:360px; height:auto; border-radius:8px;">
+  <!-- <figcaption style="font-style:italic; color:#666; margin-top:8px;">
+    <em>Modern Family</em>
+  </figcaption> -->
+</figure>
 - **Research Goal:** Designed a trajectory planning framework based on convex sets.  
 - **Methodology:** Partitioned the robot arm’s free space into multiple convex regions and constructed a weighted graph based on the reachability between regions. Performed graph search to generate a sequence of convex regions and optimized trajectories within each region.  
 - **Key Design:** (1) Efficiently generated convex regions using goal-directed sampling. (2) Reduced graph complexity through heuristic pruning, accelerating path computation.  
@@ -74,6 +86,12 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 ## 📱 3. Linking Motion Design to Brand Perception in Mobile Interfaces  
 **Online Summer Research |** Tsinghua University (THU)  📅 *May 2025 – Sep 2025*    <br> 
 **Core Member** | Supervised by [Prof. Yang JIAO](https://scholar.google.com/citations?hl=zh-CN&user=nifMhLoAAAAJ)  
+<figure style="display:block; margin: 24px auto; text-align:center;">
+  <img src="/images/motion.jpg" alt="motion" style="width:90%; max-width:360px; height:auto; border-radius:8px;">
+  <!-- <figcaption style="font-style:italic; color:#666; margin-top:8px;">
+    <em>Modern Family</em>
+  </figcaption> -->
+</figure>
 - **Research Goal:** Analyzed smartphone motion effects across multiple brands by extracting and quantifying objective motion parameters, and linked these parameters to user perception and brand style. Developed a perceptual-style map to visualize the relationship between motion parameters, user experience, and brand identity.  
 - **My Contribution:** Implemented code-based methods to extract and quantify objective motion parameters of smartphone interface animations. Conducted user experiments and quantitative data analysis.
 
@@ -83,6 +101,12 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 ## 🎧 4. Bandwidth-Efficient Audio Compression for Accurate MLLM ASR  
 **Remote Research Intern |** University of Texas at Dallas (UTD)  📅 *Jul 2025 – Ongoing*    <br> 
 **Project Lead** | Supervised by [Prof. Yi Ding](https://yi-ding.me/)  
+<figure style="display:block; margin: 24px auto; text-align:center;">
+  <img src="/images/audio.jpg" alt="audio" style="width:90%; max-width:360px; height:auto; border-radius:8px;">
+  <!-- <figcaption style="font-style:italic; color:#666; margin-top:8px;">
+    <em>Modern Family</em>
+  </figcaption> -->
+</figure>
 - **Research Goal I:** Evaluated and quantified the robustness of multimodal large language models (MLLMs) in automatic speech recognition (ASR) tasks.  
 - **Research Goal II:** Designed a bandwidth-efficient compression and decompression method for multi-channel audio transmission, which compresses multiple audio streams into a single stream and restores them with sufficient fidelity for accurate MLLM-based recognition, achieving a balance between transmission efficiency and ASR accuracy.
 
