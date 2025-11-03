@@ -127,7 +127,7 @@ And btw, I’m also a big fan of horror movies! <br>
 
 **I often tell myself, "We don't make right choices. We make choices and prove them right." I hope to carry a nomadic spirit within me, building my own tent wherever the life leads.**
 
-<figure style="max-width:720px; margin: 24px auto; text-align:center;">
+<figure style="display:block; margin: 24px auto; text-align:center;">
   <img src="/images/modernfamily.jpg" alt="A line from Modern Family" style="width:90%; max-width:360px; height:auto; border-radius:8px;">
   <figcaption style="font-style:italic; color:#666; margin-top:8px;">
     <em>Modern Family</em>
