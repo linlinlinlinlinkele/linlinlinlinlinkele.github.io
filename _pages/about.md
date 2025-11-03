@@ -122,20 +122,18 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
   </figcaption> -->
 </figure>
 
-### Algorithm Engineering Intern — [JD.com, Inc.](https://corporate.jd.com/) *(Beijing, China)*  
-*June 2023 – August 2023*  |  *Received guidance from [Prof. Desheng Zhang](https://people.cs.rutgers.edu/~dz220/), Rutgers University*  <br>
+## Algorithm Engineering Intern — [JD.com, Inc.](https://corporate.jd.com/) *(Beijing, China)*  
+*June 2023 – August 2023*  |  Received guidance from *[Prof. Desheng Zhang](https://people.cs.rutgers.edu/~dz220/), Rutgers University*  <br>
 **Courier Calorie Consumption Prediction and Delivery Difficulty Assessment**  
 - Developed a calorie consumption prediction system for delivery couriers by leveraging order data, device logs, and wearable fitness tracker information.  
 - Quantified delivery area difficulty and optimized fairness in order allocation.  <br>
-
 **Courier Delivery Route Sequence Reconstruction**  
 - Fused order data with courier trajectory stay points to reconstruct the true delivery route.  
 - Addressed the issue of order sequence disruption caused by batch “delivered” clicks.
 
 
-### Smart Manufacturing Intern — [NIO Inc.](https://www.nio.com/) *(Shanghai, China)*  
-*July 2024 – January 2025*
-
+## Smart Manufacturing Intern — [NIO Inc.](https://www.nio.com/) *(Shanghai, China)*  
+*July 2024 – January 2025*  <br>
 **Automotive Plant Data Governance and Standardization Project**  
 - Designed a unified industrial data representation framework spanning physical–virtual spaces.  
 - Participated as a core member in drafting the corporate standard *Industrial Metaverse Data Interoperability Specification*.  
