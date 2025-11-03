@@ -54,7 +54,7 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 **USTC**  📅 *Dec 2023 – Feb 2025* <br>
 **Project Lead** | Supervised by [Prof. Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/)  
 <figure style="display:block; margin: 24px auto; text-align:center;">
-  <img src="/images/attention.png" alt="attention" style="width:90%; max-width:360px; height:auto; border-radius:8px;">
+  <img src="/images/attention.png" alt="attention" style="width:90%; max-width:580px; height:auto; border-radius:8px;">
   <!-- <figcaption style="font-style:italic; color:#666; margin-top:8px;">
     <em>Modern Family</em>
   </figcaption> -->
@@ -87,7 +87,7 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 **Online Summer Research |** Tsinghua University (THU)  📅 *May 2025 – Sep 2025*    <br> 
 **Core Member** | Supervised by [Prof. Yang JIAO](https://scholar.google.com/citations?hl=zh-CN&user=nifMhLoAAAAJ)  
 <figure style="display:block; margin: 24px auto; text-align:center;">
-  <img src="/images/motion.png" alt="motion" style="width:90%; max-width:360px; height:auto; border-radius:8px;">
+  <img src="/images/motion.png" alt="motion" style="width:90%; max-width:580px; height:auto; border-radius:8px;">
   <!-- <figcaption style="font-style:italic; color:#666; margin-top:8px;">
     <em>Modern Family</em>
   </figcaption> -->
@@ -115,6 +115,12 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 
 
 # Work Experiences {#workexperiences}
+<figure style="display:block; margin: 24px auto; text-align:center;">
+  <img src="/images/work.png" alt="work" style="width:90%; max-width:480px; height:auto; border-radius:8px;">
+  <!-- <figcaption style="font-style:italic; color:#666; margin-top:8px;">
+    <em>Modern Family</em>
+  </figcaption> -->
+</figure>
 ### Algorithm Engineering Intern — [JD.com, Inc.](https://corporate.jd.com/) *(Beijing, China)*  
 *June 2023 – August 2023*  *Supervised by [Prof. Desheng Zhang](https://people.cs.rutgers.edu/~dz220/), Rutgers University*
 **Courier Calorie Consumption Prediction and Delivery Difficulty Assessment**  
