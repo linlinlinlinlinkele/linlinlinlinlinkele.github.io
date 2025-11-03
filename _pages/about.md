@@ -27,6 +27,26 @@ I am particularly interested in designing intelligent interaction frameworks and
 🎉 祝我的母校河海大学110周年生日快乐！ Happy 110th Anniversary, Hohai! 💙🌊
 
 ---
+# Publications & Manuscripts {#publications}
+
+
+### 📄 **AttenTrack: Mobile User Attention Awareness Based on Context and External Distractions**  
+**[Paper](https://arxiv.org/abs/2509.01414)**  
+**Yutong Lin**, Suyuan Liu, Kaiwen Guo, Haohua Du, Chao Liu, Xiang-Yang Li  
+*Under review at the International Journal of Human–Computer Interaction (IJHCI).*  
+
+
+### 🤖 **A Two-Stage LLM System for Enhanced Regulatory Information Retrieval and Answer Generation**  
+**[Paper](https://aclanthology.org/2025.regnlp-1.10.pdf)**  
+Fengzhao Sun, Jun Yu, Jiaming Hou, **Yutong Lin**, Tianyu Liu  
+*In Proceedings of the 31st International Conference on Computational Linguistics (COLING) Workshops, 2025.*  
+
+
+### 📱 **From Parameters to Style: A Dual-Dimensional User Perceptual Structure of Smartphone Motion Effects Design**  
+Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu Dai, Stephen Jia Wang, Yang Jiao  
+*Under review at the ACM CHI Conference on Human Factors in Computing Systems (CHI 2026).*  
+
+---
 
 # Research Experiences {#researchxperiences}
 
@@ -68,26 +88,7 @@ I am particularly interested in designing intelligent interaction frameworks and
 
 ---
 
-# Publications & Manuscripts {#publications}
 
-
-### 📄 **AttenTrack: Mobile User Attention Awareness Based on Context and External Distractions**  
-**[Paper](https://arxiv.org/abs/2509.01414)**  
-**Yutong Lin**, Suyuan Liu, Kaiwen Guo, Haohua Du, Chao Liu, Xiang-Yang Li  
-*Under review at the International Journal of Human–Computer Interaction (IJHCI).*  
-
-
-### 🤖 **A Two-Stage LLM System for Enhanced Regulatory Information Retrieval and Answer Generation**  
-**[Paper](https://aclanthology.org/2025.regnlp-1.10.pdf)**  
-Fengzhao Sun, Jun Yu, Jiaming Hou, **Yutong Lin**, Tianyu Liu  
-*In Proceedings of the 31st International Conference on Computational Linguistics (COLING) Workshops, 2025.*  
-
-
-### 📱 **From Parameters to Style: A Dual-Dimensional User Perceptual Structure of Smartphone Motion Effects Design**  
-Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu Dai, Stephen Jia Wang, Yang Jiao  
-*Under review at the ACM CHI Conference on Human Factors in Computing Systems (CHI 2026).*  
-
----
 
 # Work Experiences {#workexperiences}
 ### Algorithm Engineering Intern — [JD.com, Inc.](https://corporate.jd.com/) *(Beijing, China)*  
