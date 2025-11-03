@@ -127,6 +127,7 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 **Courier Calorie Consumption Prediction and Delivery Difficulty Assessment**  
 - Developed a calorie consumption prediction system for delivery couriers by leveraging order data, device logs, and wearable fitness tracker information.  
 - Quantified delivery area difficulty and optimized fairness in order allocation.  <br>
+
 **Courier Delivery Route Sequence Reconstruction**  
 - Fused order data with courier trajectory stay points to reconstruct the true delivery route.  
 - Addressed the issue of order sequence disruption caused by batch “delivered” clicks.
