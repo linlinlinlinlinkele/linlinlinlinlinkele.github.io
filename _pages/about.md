@@ -116,7 +116,7 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 
 # Work Experiences {#workexperiences}
 <figure style="display:block; margin: 24px auto; text-align:center;">
-  <img src="/images/work.png" alt="work" style="width:90%; max-width:480px; height:auto; border-radius:8px;">
+  <img src="/images/work.png" alt="work" style="width:90%; max-width:340px; height:auto; border-radius:8px;">
   <!-- <figcaption style="font-style:italic; color:#666; margin-top:8px;">
     <em>Modern Family</em>
   </figcaption> -->
