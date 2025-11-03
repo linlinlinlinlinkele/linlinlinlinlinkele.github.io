@@ -52,7 +52,7 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 
 ## 🧠 1. Smartphone Users' Attention State Awareness  
 **USTC**  📅 *Dec 2023 – Feb 2025* <br>
-**Project Lead** | Supervised by [Prof. Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/)  
+**Project Lead** | Supervised by *[Prof. Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/)*  
 <figure style="display:block; margin: 24px auto; text-align:center;">
   <img src="/images/attention.png" alt="attention" style="width:90%; max-width:580px; height:auto; border-radius:8px;">
   <!-- <figcaption style="font-style:italic; color:#666; margin-top:8px;">
@@ -68,7 +68,7 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 
 ## 🤖 2. Graph-of-Convex-Sets Motion Planning for Robotic Arms  
 **USTC**  📅 *Mar 2025 – Dec 2025 (Expected)*  <br> 
-**Project Lead** | Supervised by [Prof. Da Sun](https://scholar.google.com/citations?user=mveLF-4AAAAJ&hl=zh-CN) & [Prof. Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/)  
+**Project Lead** | Supervised by *[Prof. Da Sun](https://scholar.google.com/citations?user=mveLF-4AAAAJ&hl=zh-CN)* & *[Prof. Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/)*  
 <figure style="display:block; margin: 24px auto; text-align:center;">
   <img src="/images/robotics.png" alt="robotics" style="width:90%; max-width:360px; height:auto; border-radius:8px;">
   <!-- <figcaption style="font-style:italic; color:#666; margin-top:8px;">
@@ -84,8 +84,8 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 
 
 ## 📱 3. Linking Motion Design to Brand Perception in Mobile Interfaces  
-**Online Summer Research |** Tsinghua University (THU)  📅 *May 2025 – Sep 2025*    <br> 
-**Core Member** | Supervised by [Prof. Yang JIAO](https://scholar.google.com/citations?hl=zh-CN&user=nifMhLoAAAAJ)  
+**Online Summer Research** | *[Tsinghua University (THU)](https://www.tsinghua.edu.cn/en)*  📅 *May 2025 – Sep 2025*    <br> 
+**Core Member** | Supervised by *[Prof. Yang JIAO](https://scholar.google.com/citations?hl=zh-CN&user=nifMhLoAAAAJ)* 
 <figure style="display:block; margin: 24px auto; text-align:center;">
   <img src="/images/motion.png" alt="motion" style="width:90%; max-width:580px; height:auto; border-radius:8px;">
   <!-- <figcaption style="font-style:italic; color:#666; margin-top:8px;">
@@ -99,8 +99,8 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 
 
 ## 🎧 4. Bandwidth-Efficient Audio Compression for Accurate MLLM ASR  
-**Remote Research Intern |** University of Texas at Dallas (UTD)  📅 *Jul 2025 – Ongoing*    <br> 
-**Project Lead** | Supervised by [Prof. Yi Ding](https://yi-ding.me/)  
+**Remote Research Intern** | *[University of Texas at Dallas (UTD)](https://www.utdallas.edu/)*  📅 *Jul 2025 – Ongoing*    <br> 
+**Project Lead** | Supervised by *[Prof. Yi Ding](https://yi-ding.me/)*  
 <figure style="display:block; margin: 24px auto; text-align:center;">
   <img src="/images/audio.png" alt="audio" style="width:90%; max-width:360px; height:auto; border-radius:8px;">
   <!-- <figcaption style="font-style:italic; color:#666; margin-top:8px;">
@@ -123,7 +123,7 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 </figure>
 
 ### Algorithm Engineering Intern — [JD.com, Inc.](https://corporate.jd.com/) *(Beijing, China)*  
-*June 2023 – August 2023*  *Supervised by [Prof. Desheng Zhang](https://people.cs.rutgers.edu/~dz220/), Rutgers University*  <br>
+*June 2023 – August 2023*  |  *Received guidance from [Prof. Desheng Zhang](https://people.cs.rutgers.edu/~dz220/), Rutgers University*  <br>
 **Courier Calorie Consumption Prediction and Delivery Difficulty Assessment**  
 - Developed a calorie consumption prediction system for delivery couriers by leveraging order data, device logs, and wearable fitness tracker information.  
 - Quantified delivery area difficulty and optimized fairness in order allocation.  <br>
