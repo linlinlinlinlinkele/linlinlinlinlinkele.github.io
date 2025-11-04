@@ -7,7 +7,7 @@ redirect_from:
 ---
 I am a Master's student in Computer Science at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), advised by [Prof. Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/) (ACM Fellow, IEEE Fellow). 
 
-I am actively seeking <span style='color: red;'>Ph.D. opportunities for Fall 2026 worldwide!</span> Please feel free to contact me via <a href="mailto:yutonglin416@gmail.com">email</a>. You can find my CV <a href="https://linlinlinlinlinkele.github.io/files/YutongCV_new.pdf" target="_blank">here</a>. 😆
+I am actively seeking <span style='color: red;'>**Ph.D. opportunities for Fall 2026 worldwide!**</span> Please feel free to contact me via <a href="mailto:yutonglin416@gmail.com">email</a>. You can find my CV <a href="https://linlinlinlinlinkele.github.io/files/YutongCV_new.pdf" target="_blank">here</a>. 😆
 <!-- <a href="https://Glycineeeee.github.io/files/" target="_blank">here</a>. -->
 
 # Research interests {#interests}
@@ -24,7 +24,7 @@ I am particularly interested in designing intelligent interaction frameworks and
 - M.E. in Computer Science and Technology, University of Science and Technology of China, 2023 - 2026 (Expected)
 - B.E. in Internet of Things (IoT) Engineering, Hohai University, 2019 - 2023
 
-🎉 祝我的母校河海大学110周年生日快乐！ Happy 110th Anniversary, Hohai! 💙🌊
+(🎉 Happy 110th Anniversary, Hohai! 祝我的母校河海大学110周年生日快乐！💙🌊)
 
 ---
 # Publications & Manuscripts {#publications}
@@ -51,7 +51,7 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 # Research Experiences {#researchxperiences}
 
 ## 🧠 1. Smartphone Users' Attention State Awareness  
-**USTC**  📅 *Dec 2023 – Feb 2025* <br>
+**USTC**  📅 *12/2023 – 02/2025* <br>
 **Project Lead** | Supervised by *[Prof. Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/)*  
 <figure style="display:block; margin: 24px auto; text-align:center;">
   <img src="/images/attention.png" alt="attention" style="width:90%; max-width:580px; height:auto; border-radius:8px;">
@@ -67,7 +67,7 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 
 
 ## 🤖 2. Graph-of-Convex-Sets Motion Planning for Robotic Arms  
-**USTC**  📅 *Mar 2025 – Dec 2025 (Expected)*  <br> 
+**USTC**  📅 *03/2025 – 12/2025 (Expected)*  <br> 
 **Project Lead** | Supervised by *[Prof. Da Sun](https://scholar.google.com/citations?user=mveLF-4AAAAJ&hl=zh-CN)* & *[Prof. Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/)*  
 <figure style="display:block; margin: 24px auto; text-align:center;">
   <img src="/images/robotics.png" alt="robotics" style="width:90%; max-width:360px; height:auto; border-radius:8px;">
@@ -84,7 +84,7 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 
 
 ## 📱 3. Linking Motion Design to Brand Perception in Mobile Interfaces  
-**Online Summer Research** | *[Tsinghua University (THU)](https://www.tsinghua.edu.cn/en)*  📅 *May 2025 – Sep 2025*    <br> 
+**Online Summer Research** | *[Tsinghua University (THU)](https://www.tsinghua.edu.cn/en)*  📅 *05/2025 – 09/2025*    <br> 
 **Core Member** | Supervised by *[Prof. Yang JIAO](https://scholar.google.com/citations?hl=zh-CN&user=nifMhLoAAAAJ)* 
 <figure style="display:block; margin: 24px auto; text-align:center;">
   <img src="/images/motion.png" alt="motion" style="width:90%; max-width:580px; height:auto; border-radius:8px;">
@@ -99,7 +99,7 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 
 
 ## 🎧 4. Bandwidth-Efficient Audio Compression for Accurate MLLM ASR  
-**Remote Research Intern** | *[University of Texas at Dallas (UTD)](https://www.utdallas.edu/)*  📅 *Jul 2025 – Ongoing*    <br> 
+**Remote Research Intern** | *[University of Texas at Dallas (UTD)](https://www.utdallas.edu/)*  📅 *07/2025 – Ongoing*    <br> 
 **Project Lead** | Supervised by *[Prof. Yi Ding](https://yi-ding.me/)*  
 <figure style="display:block; margin: 24px auto; text-align:center;">
   <img src="/images/audio.png" alt="audio" style="width:90%; max-width:360px; height:auto; border-radius:8px;">
@@ -123,7 +123,7 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 </figure>
 
 ## Algorithm Engineering Intern — [JD.com, Inc.](https://corporate.jd.com/) *(Beijing, China)*  
-*June 2023 – August 2023*  |  Received guidance from *[Prof. Desheng Zhang](https://people.cs.rutgers.edu/~dz220/), Rutgers University*  <br>
+*06/2023 – 08/2023*  |  Received guidance from *[Prof. Desheng Zhang](https://people.cs.rutgers.edu/~dz220/), Rutgers University*  <br>
 **Courier Calorie Consumption Prediction and Delivery Difficulty Assessment**  
 - Developed a calorie consumption prediction system for delivery couriers by leveraging order data, device logs, and wearable fitness tracker information.  
 - Quantified delivery area difficulty and optimized fairness in order allocation.  <br>
@@ -134,7 +134,7 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 
 
 ## Smart Manufacturing Intern — [NIO Inc.](https://www.nio.com/) *(Shanghai, China)*  
-*July 2024 – January 2025*  <br>
+*07/2024 – 01/2025*  <br>
 **Automotive Plant Data Governance and Standardization Project**  
 - Designed a unified industrial data representation framework spanning physical–virtual spaces.  
 - Participated as a core member in drafting the corporate standard *Industrial Metaverse Data Interoperability Specification*.  
