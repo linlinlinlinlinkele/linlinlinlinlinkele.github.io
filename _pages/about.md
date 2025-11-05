@@ -154,10 +154,10 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 
 # Beyond Work {#beyond}
 In my spare time, I find peace playing the piano in the music room of the university library — always grateful to my younger self for never giving up on it. <br> 
-I love watching shows of all kinds, from suspense and sci-fi dramas to sitcoms (my top picks in recent years are *Magpie Murders* and *Modern Family*). <br>
+<!-- I love watching shows of all kinds, from suspense and sci-fi dramas to sitcoms (my top picks in recent years are *Magpie Murders* and *Modern Family*). <br>-->
 And btw, I’m also a big fan of horror movies! <br>
 
-**I often tell myself, "We don't make right choices. We make choices and prove them right." I hope to carry a nomadic spirit within me, building my own tent wherever the life leads.**
+*I often tell myself, "We don't make right choices. We make choices and prove them right." I hope to carry a nomadic spirit within me, building my own tent wherever the life leads.*
 
 <figure style="display:block; margin: 24px auto; text-align:center;">
   <img src="/images/modernfamily.jpg" alt="A line from Modern Family" style="width:90%; max-width:360px; height:auto; border-radius:8px;">
