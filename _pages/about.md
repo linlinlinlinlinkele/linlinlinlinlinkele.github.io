@@ -135,7 +135,8 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 **Courier Delivery Route Sequence Reconstruction**  
 - Fused order data with courier trajectory stay points to reconstruct the true delivery route.  
 - Addressed the issue of order sequence disruption caused by batch “delivered” clicks.  <br>
-<p>*This experience taught me how to bridge real-world operational data and human-centered CPS research, turning practical challenges into research questions.*
+
+*This experience taught me how to bridge real-world operational data and human-centered CPS research, turning practical challenges into research questions.*
 
 
 ## Smart Manufacturing Intern — [NIO Inc.](https://www.nio.com/) *(Shanghai, China)*  
