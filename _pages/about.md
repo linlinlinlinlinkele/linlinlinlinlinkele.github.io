@@ -30,7 +30,7 @@ I am particularly interested in designing intelligent interaction frameworks and
 # Publications & Manuscripts {#publications}
 
 
-### 📄 **AttenTrack: Mobile User Attention Awareness Based on Context and External Distractions**  
+### 🧠 **AttenTrack: Mobile User Attention Awareness Based on Context and External Distractions**  
 **[Paper](https://arxiv.org/abs/2509.01414)**  
 **Yutong Lin**, Suyuan Liu, Kaiwen Guo, Haohua Du, Chao Liu, Xiang-Yang Li  
 *Under review at the International Journal of Human–Computer Interaction (IJHCI).*  
@@ -60,9 +60,8 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
   </figcaption> -->
 </figure>
 - **Research Goal:** Investigated smartphone users’ momentary attention states through multimodal sensing and behavioral modeling.  
-- **Framework & Data Collection:** Designed an end-to-end attention prediction framework and developed an Android app to log device interactions, sensor data, and ESM self-reports. Conducted field studies with 43 participants, collecting 9K+ real-world samples ([Dataset Released](https://github.com/linlinlinlinlinkele/AttenTrack)).  
-- **Analysis & Modeling:** Applied mixed-methods analysis combining LLM-assisted thematic coding and statistical modeling; achieved 80%+ F1 in cold-start attention state prediction.
-
+- **Framework & Data Collection:**  (1) Designed an end-to-end attention prediction framework. (2) Developed an Android app to log device interactions, sensor data, and ESM self-reports. (3) Conducted field studies with 43 participants, collecting 9K+ real-world samples ([Dataset Released](https://github.com/linlinlinlinlinkele/AttenTrack)).  
+- **Analysis & Modeling:** (1) Applied mixed-methods analysis combining LLM-assisted thematic coding and statistical modeling. (2) Designed a machine learning model, achieving over 80\% F1 in cold-start attention states prediction.   <br> 
 *As the first author, submitted a paper to the* *International Journal of Human–Computer Interaction (IJHCI).*
 
 
@@ -78,8 +77,7 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 - **Research Goal:** Designed a trajectory planning framework based on convex sets.  
 - **Methodology:** Partitioned the robot arm’s free space into multiple convex regions and constructed a weighted graph based on the reachability between regions. Performed graph search to generate a sequence of convex regions and optimized trajectories within each region.  
 - **Key Design:** (1) Efficiently generated convex regions using goal-directed sampling. (2) Reduced graph complexity through heuristic pruning, accelerating path computation.  
-- **Applicability:** Demonstrated applicability in high-performance 2D planar path planning, 3D aerial vehicle trajectory planning, and high-degree-of-freedom robotic arm trajectory planning.
-
+- **Applicability:** Demonstrated applicability in high-performance 2D planar path planning, 3D aerial vehicle trajectory planning, and high-degree-of-freedom robotic arm trajectory planning.   <br> 
 *First-author paper scheduled for submission in Dec 2025.*
 
 
@@ -93,8 +91,7 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
   </figcaption> -->
 </figure>
 - **Research Goal:** Analyzed smartphone motion effects across multiple brands by extracting and quantifying objective motion parameters, and linked these parameters to user perception and brand style. Developed a perceptual-style map to visualize the relationship between motion parameters, user experience, and brand identity.  
-- **My Contribution:** Implemented code-based methods to extract and quantify objective motion parameters of smartphone interface animations. Conducted user experiments and quantitative data analysis.
-
+- **My Contribution:** (1) Implemented code-based methods to extract and quantify objective motion parameters of smartphone interface animations. (2) Conducted user experiments and quantitative data analysis.   <br> 
 *Co-authored and submitted a paper to* *CHI 2026.*
 
 
@@ -107,8 +104,15 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
     <em>Modern Family</em>
   </figcaption> -->
 </figure>
-- **Research Goal I:** Evaluated and quantified the robustness of multimodal large language models (MLLMs) in automatic speech recognition (ASR) tasks.  
-- **Research Goal II:** Designed a bandwidth-efficient compression and decompression method for multi-channel audio transmission, which compresses multiple audio streams into a single stream and restores them with sufficient fidelity for accurate MLLM-based recognition, achieving a balance between transmission efficiency and ASR accuracy.
+- **Research Goal I:** Explore the limits of multimodal large language models (MLLMs) performance in automatic speech recognition (ASR) tasks, identifying their capabilities and weaknesses under various distortions. 
+- **Research Goal II:** Design a bandwidth-efficient compression and decompression method for multi-channel audio. The compression module reduces transmission overhead, while the decompression module ensures that the restored audio enables MLLMs to perform ASR tasks accurately. Striking a balance between transmission efficiency and ASR accuracy, making it well-suited for edge applications with MLLMs in Human-AI Interactions.
+- **Contribution:** Research Goal I has been preliminarily completed. For Research Goal II, a two-channel audio compression and decompression model has been designed and implemented, and it is currently being refined and optimized for more complex scenarios.
+
+
+## 📄 5. NSFC (National Natural Science Foundation of China) Proposal Preparation (2026)  
+**USTC** 📅 *09/2025 – 11/2025*  <br>
+**Core Member** | Supervised by *[Prof. Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/)*  
+- Conducted a thorough literature review and assisted in drafting sections of the proposal.
 
 ---
 
@@ -130,7 +134,8 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 
 **Courier Delivery Route Sequence Reconstruction**  
 - Fused order data with courier trajectory stay points to reconstruct the true delivery route.  
-- Addressed the issue of order sequence disruption caused by batch “delivered” clicks.
+- Addressed the issue of order sequence disruption caused by batch “delivered” clicks.  <br>
+*This experience taught me how to bridge real-world operational data and human-centered CPS research, turning practical challenges into research questions.*
 
 
 ## Smart Manufacturing Intern — [NIO Inc.](https://www.nio.com/) *(Shanghai, China)*  
@@ -138,7 +143,8 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 **Automotive Plant Data Governance and Standardization Project**  
 - Designed a unified industrial data representation framework spanning physical–virtual spaces.  
 - Participated as a core member in drafting the corporate standard *Industrial Metaverse Data Interoperability Specification*.  
-- Established standardized data representation formats for industrial metaverse data governance.
+- Established standardized data representation formats for industrial metaverse data governance. <br>
+*This experience taught me how to collaborate effectively with engineers from diverse disciplinary backgrounds and tackle real-world problems through interdisciplinary teamwork.*
 
 ---
 
