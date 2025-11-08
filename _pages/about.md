@@ -144,7 +144,8 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 - Designed a unified industrial data representation framework spanning physical–virtual spaces.  
 - Participated as a core member in drafting the corporate standard *Industrial Metaverse Data Interoperability Specification*.  
 - Established standardized data representation formats for industrial metaverse data governance. <br>
-<p>*This experience taught me how to collaborate effectively with engineers from diverse disciplinary backgrounds and tackle real-world problems through interdisciplinary teamwork.*
+
+*This experience taught me how to collaborate effectively with engineers from diverse disciplinary backgrounds and tackle real-world problems through interdisciplinary teamwork.*
 
 ---
 
