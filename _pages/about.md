@@ -105,14 +105,15 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
   </figcaption> -->
 </figure>
 - **Research Goal I:** Explore the limits of multimodal large language models (MLLMs) performance in automatic speech recognition (ASR) tasks, identifying their capabilities and weaknesses under various distortions. 
-- **Research Goal II:** Design a bandwidth-efficient compression and decompression method for multi-channel audio. The compression module reduces transmission overhead, while the decompression module ensures that the restored audio enables MLLMs to perform ASR tasks accurately. Striking a balance between transmission efficiency and ASR accuracy, making it well-suited for edge applications with MLLMs in Human-AI Interactions.
-- **Contribution:** Research Goal I has been preliminarily completed. For Research Goal II, a two-channel audio compression and decompression model has been designed and implemented, and it is currently being refined and optimized for more complex scenarios.
+- **Research Goal II:** Design a bandwidth-efficient compression and decompression method for multi-channel audio. Striking a balance between transmission efficiency and ASR accuracy, making it well-suited for edge applications with MLLMs in Human-AI Interactions.
+ <!-- The compression module reduces transmission overhead, while the decompression module ensures that the restored audio enables MLLMs to perform ASR tasks accurately.  -->
+<!-- - **Contribution:** Research Goal I has been preliminarily completed. For Research Goal II, a two-channel audio compression and decompression model has been designed and implemented, and it is currently being refined and optimized for more complex scenarios. -->
 <!-- Demo Video -->
 <div style="text-align:center; margin-top:24px;">
   <h4>🎬 Demo Video</h4>
   <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%;">
     <iframe 
-      src="https://www.youtube.com/embed/9Mc9Irhn9pA"
+      src="https://youtu.be/kriSdtb0rOE"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen
