@@ -52,7 +52,7 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
 
 ## 🧠 1. Smartphone Users' Attention State Awareness  
 **USTC**  📅 *12/2023 – 02/2025* <br>
-**Project Lead** | Supervised by *[Prof. Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/)*  
+**Project Lead** | Supervised by *[Prof. Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/)* & *[Prof. Haohua Du](https://dblp.org/pid/91/7389.html)*
 <figure style="display:block; margin: 24px auto; text-align:center;">
   <img src="/images/attention.png" alt="attention" style="width:90%; max-width:580px; height:auto; border-radius:8px;">
   <!-- <figcaption style="font-style:italic; color:#666; margin-top:8px;">
