@@ -113,7 +113,7 @@ Rui Zhang, Wei Gong, Yiran Liu, Ziyao Zhang, Chenxi Xiao, **Yutong Lin**, Siyu D
   <h4>🎬 Demo Video</h4>
   <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%;">
     <iframe 
-      src="https://youtu.be/kriSdtb0rOE"
+      src="https://www.youtube.com/embed/kriSdtb0rOE"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen
